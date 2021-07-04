@@ -237,7 +237,7 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```City areayile Weather data maathrame kittollu Chetta !🤦🏻‍♀️```",
+            "NOT_FOUND": "```Angne oru city illallo!```",
             "QUOTE_DESC": "Gives a random quote.",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",

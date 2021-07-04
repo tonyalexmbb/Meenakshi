@@ -27,13 +27,13 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*njan admin alla mone🥲*",
             "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
+            "GIVE_ME_USER": "*arelum mention chey👩🏻‍🦳!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin role was given!```",
+            "ALREADY_PROMOTED": "```Avan already admin aanallo🙍🏻‍♀️```",
+            "PROMOTED": "```Admin aakiyittunde💁🏻‍♀️```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
             "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
+            "RESTART_DESC": "Restart Meenakshi",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
+            "SHUTDOWN_DESC": "Shutting down Meenakshi",
             "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -167,8 +167,8 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
-            "RBGING": "```Removing...```"
+            "NO_API_KEY": "*chechikk API key illadaa...*\n```remove.bg login for apikey```",
+            "RBGING": "```Maayikunna Sunaapi edukatte💁🏻‍♀️...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -187,16 +187,16 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "UPLOADING_SONG": "\n*Kittipoy🧏🏻‍♀️ 📲 Cheviyil vekkunna sunaappi eduth vekku🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```Download cheyyuvaa🎥...```",
+            "UPLOADING_VIDEO": "```Upload cheyyuvaa...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
+            "NOT_FOUND": "*Thappinokeett kittiyilla🤦🏻‍♀️*",
+            "SEARCHING": "*🔎 Searching(kittiyankil Theraam)...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
+            "DOWNLOADING": "```Ippam Seriyakithra👧🏻```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Pikachu Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*Meenakshi Update Available🙋🏻‍♀️*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*Updated 🤷🏻‍♀️✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting*"
+            "AFTER_UPDATE": "💁🏻‍♀️Meenakshi Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",

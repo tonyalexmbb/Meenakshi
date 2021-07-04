@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤷🏻‍♀️✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "💁🏻‍♀️Meenakshi Restarting*"
+            "AFTER_UPDATE": "*💁🏻‍♀️Meenakshi Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",

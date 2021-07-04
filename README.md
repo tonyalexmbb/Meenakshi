@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/vishnu-kayamkulam">vishnu-kayamku
 
   <p align="center">
   <a href="httsp://github.com/vishnu-kayamkulam/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/vishnu-kayamkulam/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/vishnu-kayamkulam/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-kayamkulam?color=blue&style=flat-square"></a>
 <a href="https://github.com/vishnu-kayamkulam/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-kayamkulam/Meenakshi?color=blue&style=flat-square"></a>
